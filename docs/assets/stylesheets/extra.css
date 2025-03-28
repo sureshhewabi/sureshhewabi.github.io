@@ -6,11 +6,13 @@
 }
 
 .card {
-    background: #fff;
+    background: #ffffff;
     border-radius: 8px;
     padding: 15px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
+    border-color: #007bff;
+    border-width: thick;
 }
 
 .card img {
@@ -37,6 +39,29 @@
 }
 
 img[src="assets/images/suresh_banner.jpeg"] {
-    height: 200px; /* Or any height you prefer */
+    height: 200px;
     object-fit: cover;
+}
+
+.chip {
+    display: inline-block;
+    background-color: #e0e0e0;
+    color: #333;
+    padding: 8px 16px;
+    margin: 4px;
+    border-radius: 16px;
+    font-size: 14px;
+    font-weight: 600;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s;
+}
+
+.chip:hover {
+    background-color: #607d8b;
+    color: white;
+}
+.highlight {
+    font-weight: bold;
+    font-style: italic;
+    color: teal; /* You can choose any color */
 }
