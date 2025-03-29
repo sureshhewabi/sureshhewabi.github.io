@@ -96,38 +96,35 @@ This site features a collection of projects I've contributed to, including open-
         <a href="projects/viz_galaxy_plugin">Read more</a>
     </div>
 
+     <div class="card">
+        <img src="assets/images/ocr_neural_network/ocr_neural_network_card.png" alt="OCR System">
+        <h3>Automated Bank Cheque Recongition System using OCR</h3>
+        <p>Automated bank cheque details extraction using Optical Charactor Recongition system. It was recongising Bank No, Account No which are printed charactors 99%, handwritten date recognised 80% and handwritten amount in letters and numbers 63%.</p>
+        <div class="technologies">
+            <span class="chip">Neural Networks</span>
+            <span class="chip">Mathlab</span>
+            <span class="chip">OCR</span>
+            <span class="chip">C#.NET</span>
+        </div>
+        <a href="projects/ocr_neural_network">Read more</a>
+    </div>
+
+    <div class="card">
+        <img src="assets/images/pride_api_core/pride_api_core_card.png" alt="PRIDE API Core">
+        <h3>PRIDE-AI-CORE</h3>
+        <p>The Pride-LLM-API is a modular, scalable, and secure API designed for integrating LLM-powered functionalities with structured data storage and retrieval. Built in Python, the project follows a clean architecture with well-defined components.This project act as the base API for AI-driven document processing, retrieval-augmented generation (RAG), and secure NLP applications.</p>
+        <div class="technologies">
+            <span class="chip">LLM</span>
+            <span class="chip">Gemini</span>
+            <span class="chip">ChromaDB</span>
+            <span class="chip">Prompt Engineering</span>
+        </div>
+        <a href="projects/pride_api_core">Read more</a>
+    </div>
   
 </div>
 
-[//]: # (  <div class="card">)
-
-[//]: # (        <img src="assets/images/pride_api_core.png" alt="PRIDE API Core">)
-
-[//]: # (        <h3>PRIDE-AI-CORE</h3>)
-
-[//]: # (        <p>RAG-powered API for PRIDE Archive metadata.</p>)
-
-[//]: # (        <div class="technologies">)
-
-[//]: # (            <span class="chip">fastAPI</span>)
-
-[//]: # (            <span class="chip">python</span>)
-
-[//]: # (        </div>)
-
-[//]: # (        <a href="projects/pride_api_core">Read more</a>)
-
-[//]: # (    </div>)
+  
 
 
-[//]: # (    <div class="card">)
-
-[//]: # (        <img src="assets/images/ocr_neural_network.png" alt="OCR System">)
-
-[//]: # (        <h3>Automated Bank Cheque OCR</h3>)
-
-[//]: # (        <p>Automated bank cheque details extraction using OCR.</p>)
-
-[//]: # (        <a href="projects/ocr_neural_network">Read more</a>)
-
-[//]: # (    </div>)
+   
