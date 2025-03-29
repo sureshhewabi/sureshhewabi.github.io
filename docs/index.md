@@ -17,7 +17,7 @@ This site features a collection of projects I've contributed to, including open-
 <div class="grid cards" markdown="3">
 
     <div class="card">
-        <img src="assets/images/crosslinking/crosslinking_card.png" alt="Crosslinking">
+        <img src="assets/images/projects/crosslinking/crosslinking_card.png" alt="Crosslinking">
         <h3>Crosslinking</h3>
         <p>Advanced protein crosslinking analysis tool.</p>
         <div class="technologies">
@@ -30,20 +30,20 @@ This site features a collection of projects I've contributed to, including open-
     </div>
 
     <div class="card">
-        <img src="assets/images/file_download_stats/file_download_stats_card.png" alt="File Download Stats">
+        <img src="assets/images/projects/file_download_stats/file_download_stats_card.png" alt="File Download Stats">
         <h3>Nextflow File Download Statistics Pipeline</h3>
         <p>Pipeline to analyze file download statistics.</p>
         <div class="technologies">
-            <span class="chip">Nextflow</span>
+            <span class="chip">Parquet</span>
             <span class="chip">Slurm</span>
-            <span class="chip">Dask</span>
+            <span class="chip">Dask Framework</span>
             <span class="chip">Parallel Computing</span>
         </div>
         <a href="projects/file_download_stats">Read more</a>
     </div>
 
     <div class="card">
-        <img src="assets/images/orphangenes/orphangenes_card.PNG" alt="Orfan-genes">
+        <img src="assets/images/projects/orphangenes/orphangenes_card.PNG" alt="Orfan-genes">
         <h3>Orfan-genes</h3>
         <p>Many sequenced genomes reveal that a significant percentage of genes in a given organism's taxon lack orthologous sequences in other taxa. These are called "orphans" or "ORFans" if present in one species or "taxonomically restricted genes" (TRGs) at higher levels. Research on these genes is key to understanding their origins, but current software for identifying them is limited, complex, and has restricted database access. ORFanID is a user-friendly web-based tool that efficiently identifies orphan genes and TRGs across taxonomic levels, using sequences from large bioinformatics repositories like NCBI. It allows users to control search parameters and presents results in sortable, filterable tables with graphical displays of taxonomic trees.</p>
         <div class="technologies">
@@ -56,7 +56,7 @@ This site features a collection of projects I've contributed to, including open-
     </div>
 
     <div class="card">
-        <img src="assets/images/pridepy/pridepy_card.png" alt="pridepy">
+        <img src="assets/images/projects/pridepy/pridepy_card.png" alt="pridepy">
         <h3>pridepy</h3>
         <p>The Proteomics Identification Database (PRIDE) is the world’s largest repository for proteomics data and a founding member of ProteomeXchange. Here, we introduce pridepy, a Python client designed to access PRIDE Archive data, including project metadata and file downloads. pridepy offers a flexible programmatic interface for searching, retrieving, and downloading data via the PRIDE REST API. This tool simplifies the integration of PRIDE datasets into bioinformatics pipelines, making it easier for researchers to handle large datasets programmatically.</p>
         <div class="technologies">
@@ -69,7 +69,7 @@ This site features a collection of projects I've contributed to, including open-
     </div>
 
     <div class="card">
-        <img src="assets/images/geodiver/geodiver_card.jpg" alt="GeoDiver">
+        <img src="assets/images/projects/geodiver/geodiver_card.jpg" alt="GeoDiver">
         <h3>GeoDiver</h3>
         <p>GeoDiver is an online web application for performing Differential Gene Expression Analysis (DGEA) and Generally Applicable Gene-set Enrichment Analysis (GAGE) on gene expression datasets from the publicly available Gene Expression Omnibus (GEO). The output produced includes numerous high quality interactive graphics, allowing users to easily explore and examine complex datasets instantly. Furthermore, the results produced can be reviewed at a later date and shared with collaborators.</p>
         <div class="technologies">
@@ -81,10 +81,8 @@ This site features a collection of projects I've contributed to, including open-
         <a href="projects/geodiver">Read more</a>
     </div>
 
-
-
     <div class="card">
-        <img src="assets/images/galaxy/galaxy_card.png" alt="Galaxy Plugin">
+        <img src="assets/images/projects/galaxy/galaxy_card.png" alt="Galaxy Plugin">
         <h3>Galaxy Plugin</h3>
         <p>This project developed ProExtractor, a Java library that extracts proteomics data from mzIdentML files and converts it into a lightweight JSON format. The ProViewer plugin, built with web technologies, visualizes this data interactively in Galaxy. ProExtractor is 83% faster than MzidToHTML, and ProViewer reduces visualization delays by 98% through caching. ProViewer is integrated into Galaxy and available on the public GIO Galaxy server, with an easy installation script for custom servers.</p>
         <div class="technologies">
@@ -97,7 +95,7 @@ This site features a collection of projects I've contributed to, including open-
     </div>
 
      <div class="card">
-        <img src="assets/images/ocr_neural_network/ocr_neural_network_card.png" alt="OCR System">
+        <img src="assets/images/projects/ocr_neural_network/ocr_neural_network_card.png" alt="OCR System">
         <h3>Automated Bank Cheque Recongition System using OCR</h3>
         <p>Automated bank cheque details extraction using Optical Charactor Recongition system. It was recongising Bank No, Account No which are printed charactors 99%, handwritten date recognised 80% and handwritten amount in letters and numbers 63%.</p>
         <div class="technologies">
@@ -110,7 +108,7 @@ This site features a collection of projects I've contributed to, including open-
     </div>
 
     <div class="card">
-        <img src="assets/images/pride_api_core/pride_api_core_card.png" alt="PRIDE API Core">
+        <img src="assets/images/projects/pride_api_core/pride_api_core_card.png" alt="PRIDE API Core">
         <h3>PRIDE-AI-CORE</h3>
         <p>The Pride-LLM-API is a modular, scalable, and secure API designed for integrating LLM-powered functionalities with structured data storage and retrieval. Built in Python, the project follows a clean architecture with well-defined components.This project act as the base API for AI-driven document processing, retrieval-augmented generation (RAG), and secure NLP applications.</p>
         <div class="technologies">
@@ -122,6 +120,31 @@ This site features a collection of projects I've contributed to, including open-
         <a href="projects/pride_api_core">Read more</a>
     </div>
   
+     <div class="card">
+        <img src="assets/images/projects/nextflow_validation_pipeline/nextflow_validation_pipeline.png" alt="PRIDE API Core">
+        <h3>Nextflow Validation Pipeline</h3>
+        <p>An efficient nextflow validation pipeline was developed to solve some of the issues in current production validation pipeline</p>
+        <div class="technologies">
+            <span class="chip">Nextflow</span>
+            <span class="chip">Redis</span>
+            <span class="chip">Bioconda</span>
+            <span class="chip">XML Parser</span>
+        </div>
+        <a href="projects/pride_api_core">Read more</a>
+    </div>
+
+    <div class="card">
+        <img src="assets/images/projects/pride_curation_tool/pride_curation_tool.png" alt="pride_curation_tool">
+        <h3>PRIDE Curation Tool - Reborn!</h3>
+        <p>Reimplemented PRIDE Curation Tool to easily update metadata of projects in different services including MongoDB, Oracle, Solr, Redis, Flat file system etc. </p>
+        <div class="technologies">
+            <span class="chip">MongoDB</span>
+            <span class="chip">Oracle</span>
+            <span class="chip">Solr</span>
+            <span class="chip">Redis Cluster</span>
+        </div>
+        <a href="projects/pride_api_core">Read more</a>
+    </div>
 </div>
 
   
