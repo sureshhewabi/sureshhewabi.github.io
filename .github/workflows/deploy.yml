@@ -23,5 +23,4 @@ jobs:
 
       - name: Deploy MkDocs
         run: |
-          cd documentation
           mkdocs gh-deploy --force
