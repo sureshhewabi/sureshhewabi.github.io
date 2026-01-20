@@ -26,7 +26,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">Kubernates</span>
             <span class="chip">OpenStack</span>
         </div>
-        <a href="projects/crosslinking">Read more</a>
     </div>
 
     <div class="card">
@@ -39,7 +38,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">Dask Framework</span>
             <span class="chip">Parallel Computing</span>
         </div>
-        <a href="projects/file_download_stats">Read more</a>
     </div>
 
     <div class="card">
@@ -52,7 +50,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">Google Cloud</span>
             <span class="chip">AWS</span>
         </div>
-        <a href="projects/orfangenes">Read more</a>
     </div>
 
     <div class="card">
@@ -65,7 +62,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">Globus</span>
             <span class="chip">HPC Cluster</span>
         </div>
-        <a href="projects/pridepy">Read more</a>
     </div>
 
     <div class="card">
@@ -78,7 +74,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">Sinatra</span>
             <span class="chip">MaterialisedCSS</span>
         </div>
-        <a href="projects/geodiver">Read more</a>
     </div>
 
     <div class="card">
@@ -91,7 +86,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">AJAX</span>
             <span class="chip">XML parsing</span>
         </div>
-        <a href="projects/viz_galaxy_plugin">Read more</a>
     </div>
 
      <div class="card">
@@ -104,7 +98,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">OCR</span>
             <span class="chip">C#.NET</span>
         </div>
-        <a href="projects/ocr_neural_network">Read more</a>
     </div>
 
     <div class="card">
@@ -117,7 +110,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">ChromaDB</span>
             <span class="chip">Prompt Engineering</span>
         </div>
-        <a href="projects/pride_api_core">Read more</a>
     </div>
   
      <div class="card">
@@ -130,7 +122,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">Bioconda</span>
             <span class="chip">XML Parser</span>
         </div>
-        <a href="projects/pride_api_core">Read more</a>
     </div>
 
     <div class="card">
@@ -143,7 +134,6 @@ This site features a collection of projects I've contributed to, including open-
             <span class="chip">Solr</span>
             <span class="chip">Redis Cluster</span>
         </div>
-        <a href="projects/pride_api_core">Read more</a>
     </div>
 </div>
 
